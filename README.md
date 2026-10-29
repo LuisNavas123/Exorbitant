@@ -1,0 +1,2 @@
+# Exorbitant
+Daily comparison game

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luisnavas123.github.io/Exorbitant/sitemap.xml
